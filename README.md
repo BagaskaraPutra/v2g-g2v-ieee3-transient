@@ -62,3 +62,32 @@ open one of the Simulink scopes and click the `Pause` or `Stop` button.
 ## Citations
 This source code was implemented for a paper in progress. If you intend to use it in your work, please cite it as
 > B. P. Putra and A. I. Cahyadi, "v2g-g2v-ieee3-transient" [Online]. Available: <https://github.com/BagaskaraPutra/v2g-g2v-ieee3-transient>.
+
+This work was also inspired by the work of others. Please check them out and cite them as well.
+1. > Arancibia A, Strunz K. Modeling of an electric vehicle charging station for fast DC charging. 2012 IEEE International Electric Vehicle Conference, IEVC 2012. 2012;(3).
+      ```
+      @article{Arancibia2012,
+      doi = {10.1109/IEVC.2012.6183232},
+      isbn = {9781467315623},
+      journal = {2012 IEEE International Electric Vehicle Conference, IEVC 2012},
+      number = {3},
+      publisher = {IEEE},
+      title = {{Modeling of an electric vehicle charging station for fast DC charging}},
+      year = {2012}
+      }
+      ```
+1. > Gajduk A, Zdraveski V, Basnarkov L, et al. A Strategy for Power System Stability Improvement via Controlled Charge/Discharge of Plug-in Electric Vehicles. arXiv. 2015; (June). Available from: http://arxiv.org/abs/1506.07097.
+      ```
+      @article{Gajduk2015,
+      archivePrefix = {arXiv},
+      arxivId = {1506.07097},
+      author = {Gajduk, Andrej and Zdraveski, Vladimir and Basnarkov, Lasko and Todorovski, Mirko and Kocarev, Ljupco},
+      eprint = {1506.07097},
+      journal = {arXiv},
+      number = {June},
+      title = {{A Strategy for Power System Stability Improvement via Controlled Charge/Discharge of Plug-in Electric Vehicles}},
+      url = {http://arxiv.org/abs/1506.07097},
+      year = {2015}
+      }
+      ```
+1. > Gajduk A, "vehicle2grid-stability-analysis" [Online]. Available: <https://github.com/gajduk/vehicle2grid-stability-analysis>.
